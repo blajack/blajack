@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**blajack/blajack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about the Cosmos HUB ecosystem 🌌 and deeply involved in its community. I actively support the [POSTHUMAN](https://posthuman.digital/) and [Defi Geeks](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf) communities, contributing to the development and maintenance of decentralized networks.
 
-Here are some ideas to get you started:
+## About Me:
+- **🔭 Current Projects:** Validation and participation in the Cosmos HUB network
+- **🌱 Interests:** Decentralized technologies, blockchain, cryptocurrencies
+- **💬 Ask me about:** Cosmos HUB, validation, network security
+- **⚡ Fun Fact:** I'm always on the lookout for new knowledge and technologies that can make the world a better place
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me:
+- [Telegram](https://t.me/chernovpro)
+- [Twitter](https://twitter.com/d4ernov)
+- [LinkedIn](https://linkedin.com/in/yourprofile)
