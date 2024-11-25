@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm passionate about the Cosmos HUB ecosystem 🌌 and deeply involved in its community. I actively support the [POSTHUMAN](https://posthuman.digital/) and [Defi Geeks](https://www.stargaze.zone/l/stars1k6gdkepvwhhhdt6tk0auvkvansd3muqy0p98yedgwwarvcycxh8sex8dsf) communities, contributing to the development and maintenance of decentralized networks.
+I'm passionate about the Cosmos HUB ecosystem 🌌 and deeply involved in its community. I actively support the [POSTHUMAN](https://posthuman.digital/) and [Defi Geeks](https://discord.gg/Rk7VVUbHWX) communities, contributing to the development and maintenance of decentralized networks.
 
 ## About Me:
 - **🔭 Current Projects:** Validation and participation in the Cosmos HUB network
