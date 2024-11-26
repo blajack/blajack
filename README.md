@@ -10,8 +10,8 @@ I'm passionate about the Cosmos HUB ecosystem 🌌 and deeply involved in its co
 
 ## Connect with Me:
 - [Telegram](https://t.me/chernovpro)
-- [Twitter](https://twitter.com/d4ernov)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/blajack_geek)
+
 
 
 ## My Contributions
