@@ -9,7 +9,7 @@ I'm passionate about the Cosmos HUB ecosystem 🌌 and deeply involved in its co
 - **⚡ Fun Fact:** I'm always on the lookout for new knowledge and technologies that can make the world a better place
 
 ## Connect with Me:
-- [Telegram](https://t.me/chernovpro)
+- [Telegram](https://t.me/blajack)
 - [Twitter](https://twitter.com/blajack_geek)
 
 
